@@ -12,6 +12,12 @@ git pull
 git fetch
 git add
 git init
+git clone
 
 git hub google drive?
+ls linux 
+cd cange diregt
+cat open folder
+
+
 
